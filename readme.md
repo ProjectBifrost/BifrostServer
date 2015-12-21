@@ -13,7 +13,7 @@ Documentation for the ProjectBifrost API and Website have not yet been created.
 
 ## Contributing
 
-Thank you for considering contributing to ProjectBifrost. If you would like to help, but don't know what to do, take a look at the [Issues](https://github.com/ProjectBifrost/BifrostWebsite/issues) or join us on the Terra Gaming Network [Slack Team](http://slack.terragaming.co.uk).
+Thank you for considering contributing to ProjectBifrost. If you would like to help, but don't know what to do, take a look at the [Issues](https://github.com/ProjectBifrost/BifrostServer/issues) or join us on the Terra Gaming Network [Slack Team](http://slack.terragaming.co.uk).
 
 ## Security Vulnerabilities
 If you discover a Security Vulnerabilities within any ProjectBifrost code, please email [ben@terragaming.co.uk](mailto://ben@terragaming.co.uk).
